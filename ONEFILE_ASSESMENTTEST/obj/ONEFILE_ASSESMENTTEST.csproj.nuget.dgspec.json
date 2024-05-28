@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sidrah Munaf\\source\\repos\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj": {}
+    "C:\\Users\\Sidrah Munaf\\source\\repos\\TEST\\SpecFlow-C-Project\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sidrah Munaf\\source\\repos\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj": {
+    "C:\\Users\\Sidrah Munaf\\source\\repos\\TEST\\SpecFlow-C-Project\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sidrah Munaf\\source\\repos\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj",
+        "projectUniqueName": "C:\\Users\\Sidrah Munaf\\source\\repos\\TEST\\SpecFlow-C-Project\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj",
         "projectName": "ONEFILE_ASSESMENTTEST",
-        "projectPath": "C:\\Users\\Sidrah Munaf\\source\\repos\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj",
+        "projectPath": "C:\\Users\\Sidrah Munaf\\source\\repos\\TEST\\SpecFlow-C-Project\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST.csproj",
         "packagesPath": "C:\\Users\\Sidrah Munaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sidrah Munaf\\source\\repos\\ONEFILE_ASSESMENTTEST\\ONEFILE_ASSESMENTTEST\\obj\\",
+        "outputPath": "C:\\Users\\Sidrah Munaf\\source\\repos\\TEST\\SpecFlow-C-Project\\ONEFILE_ASSESMENTTEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sidrah Munaf\\AppData\\Roaming\\NuGet\\NuGet.Config",

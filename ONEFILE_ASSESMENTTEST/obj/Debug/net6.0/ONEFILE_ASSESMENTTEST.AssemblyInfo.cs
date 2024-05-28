@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ONEFILE_ASSESMENTTEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0893f46f2890a040bcd8c7c276bfaf8784eca72c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ONEFILE_ASSESMENTTEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ONEFILE_ASSESMENTTEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
